@@ -114,6 +114,10 @@ pgsql/bin/               PostgreSQL client tools (you provide these)
 
 Don't commit the contents of `pgsql\bin`, `build` or `dist` to Git.
 
+## License
+
+Released under the [Apache License](LICENSE). See the license file for the copyright notice.
+
 ---
 
 Made by AziF.
