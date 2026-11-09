@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="PG Restore logo" width="120">
+  <img src="assets/white-orginal.png" alt="PG Restore logo" width="360">
 </p>
 
 <h1 align="center">PG Restore</h1>
