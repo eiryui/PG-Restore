@@ -1,0 +1,13 @@
+Copy these into this folder (pgsql\bin):
+
+  psql.exe
+  pg_restore.exe
+  ALL the .dll files from the same PostgreSQL "bin" folder
+
+Where to get them:
+  - From an installed PostgreSQL:  C:\Program Files\PostgreSQL\<version>\bin
+  - Or download the "binaries" zip from https://www.enterprisedb.com/download-postgresql-binaries
+    and take the files from its pgsql\bin folder.
+
+Use the same version as your newest database, or newer (pg_restore cannot read dumps made by a newer version).
+You can delete this text file afterwards.
